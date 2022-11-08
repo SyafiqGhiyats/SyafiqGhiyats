@@ -14,7 +14,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 - ⚡ In my free time I learn about backend development
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SyafiqGM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syafiq-ghiyats-martiana-a75404216)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SyafiqGM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syafiq-ghiyats-martiana-a75404216) &nbsp; [![Gmail Badge](https://img.shields.io/badge/syafiqghiyatsmartiana@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syafiqghiyatsmartiana@gmail.com) &nbsp; [![Instagram Badge](https://img.shields.io/badge/syafiq_gm-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/syafiq_gm)
 
 ---
 
